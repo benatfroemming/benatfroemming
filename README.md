@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently a senior at the University of Minnesota Twin Cities majoring in Data & Computer Science. My interests include ML, AI, robotics, and AVs. I will pursue a master's following my graduation.
+Recent graduate at the University of Minnesota Twin Cities with a degree in Data Science. My interests include ML, AI, robotics, and AVs. I will pursue a master's in Computer Science starting Fall 2025.
 
 
 ## 🌐 Socials:
