@@ -1,5 +1,5 @@
 # 💫 About Me:
-Recent graduate at the University of Minnesota Twin Cities with a degree in Data Science. My interests include coding, Machine Learning, AI, and Computer Vision. I will pursue a master's in Computer Science starting Fall 2025.
+i recently graduated from the University of Minnesota Twin Cities with a degree in Data Science. My interests include coding, Machine Learning, AI, and Computer Vision. I will pursue a master's in Computer Science starting Fall 2025.
 
 
 ## 🌐 Socials:
